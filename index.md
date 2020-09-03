@@ -1,28 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to TheHackersBrain's Projects
 
-You can use the [editor on GitHub](https://github.com/thehackersbrain/dirhunter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit blog [TheHackersBrain](https://thehackersbrain.pythonanywhere.com/) for see more projects like this.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## DirHunter
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dirhunter is a Directory Bruteforcing tool made in Python3.
 
 ```markdown
-Syntax highlighted code block
+Required Modules
 
-# Header 1
-## Header 2
-### Header 3
+- Python3 
+- Pyfiglet
+- Requests
+- Termcolor
+- Argparse
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+**[TheHackersBrain](https://thehackersbrain.pythonanywhere.com/)**
 [Link](url) and ![Image](src)
 ```
 
