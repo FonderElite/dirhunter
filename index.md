@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Dirhunter is a Directory Bruteforcing tool made in Python3.
 
-```markdown
+```
 Required Modules
 
 - Python3 
@@ -16,7 +16,7 @@ Required Modules
 - Requests
 - Termcolor
 - Argparse
-
+```
 **[TheHackersBrain](https://thehackersbrain.pythonanywhere.com/)**
 
 ### Support or Contact
