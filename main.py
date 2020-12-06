@@ -40,7 +40,7 @@ by {colored('TheHackersBrain [Gaurav Raj]', 'green')}
 ===============================================================
 [+] URL:           {h}
 [+] Wordlists:     {wordlist}
-[+] Status Code:   200, 301, 404
+[+] Status Code:   200, 302, 404
 [+] Timeout :      10s
 ===============================================================
 {st_dt} {st_tm} Starting DirHunter
@@ -52,7 +52,7 @@ by {colored('TheHackersBrain [Gaurav Raj]', 'green')}
             r = requests.get(host)
             if r.status_code == 200:
                 print(f"[{colored('+', 'green')}] {host} \t{colored(r.status_code, 'green')}")
-            elif r.status_code == 301:
+            elif r.status_code == 302:
                 print(f"[{colored('*', 'yellow')}] {host} \t{colored(r.status_code, 'yellow')}")
             else:
                 pass

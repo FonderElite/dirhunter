@@ -1,0 +1,5 @@
+admin
+about
+blog
+contact
+
